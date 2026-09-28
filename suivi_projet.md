@@ -2,40 +2,33 @@
 
 (remplacer les items en majuscule)
 
-* TITRE PROJET
-* NOM CHEF DE PROJET
-* NOMS AUTRE MEMBRES EQUIPE
-* DATE DEBUT
+* Installation d’un ERP/CRM
+* Wafa Zenasni
+* Ikram Atqaoui
+* 22/09/26
 
 
 ## Séance n° 1
 
-* date - heure
-* Travail effectué
-* A faire à la prochaine séance
-* Difficultés rencontrées
-* Remarques sur la séances (membre absent, pbe technique, ...)
+* 22/09 - 13h
+* Fait: Prise de connaissance du sujet
+* À faire: Decouverte de Dolibarr avec installation simple sur une VM
+* Difficultés rencontrées: 
 
 
 ## Séance n° 2
 
-* date - heure
-* Travail effectué
-* A faire à la prochaine séance
-* Difficultés rencontrées
-* Remarques sur la séances (membre absent, pbe technique, ...)
+* 28/09 - 8h30
+* Fait: Decouverte de Dolibarr avec installation simple sur une VM
+* À faire: Importation des csv sur Dolibarr
+* Difficultés rencontrées:
 
 
 ## Séance n° 3
 
-* date - heure
-* Travail effectué
-* A faire à la prochaine séance
-* Difficultés rencontrées
-* Remarques sur la séances (membre absent, pbe technique, ...)
-
-
-
-...
+* 28/09 - 14h30
+* Fait: Début d'écriture du script d'importation des fichiers csv
+* À faire: finir import_csv.sh
+* Difficultés rencontrées: prise en main du language shell
 
 
