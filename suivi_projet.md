@@ -32,3 +32,10 @@
 * Difficultés rencontrées: prise en main du language shell
 
 
+## Séance n° 4
+
+* 30/09 - 15h
+* Fait: Creation du docker-compose.yml
+* À faire: finir et tester
+* Difficultés rencontrées: volumes paths incompatible windows, incomprehension des variable d'env CRON
+
